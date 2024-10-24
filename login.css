@@ -1,13 +1,22 @@
+/*
+La selección "*" nos sirve para seleccionar todos los campos y quitarles el padding y margin
+ */
 *{
     padding: 0px;
     margin: 0PX;
 }
 
+/*
+CSS aplicado a la clase principal del html
+ */
 .principal {
     width: 100%;
     height: 600px;
 }
 
+/*
+CSS aplicado a la clase formulario del html
+ */
 .formulario {
     background-color: black;
     width: 500px;
@@ -19,12 +28,19 @@
     border-radius: 10px;
 }
 
+/*
+CSS aplicado al formulario del html
+ */
 form {
     color: white;
     padding-top: 10px;
     margin-left: 15px;
     margin-right: 20px;
 }
+
+/*
+CSS aplicado a cada uno de los elemento dentro de nuestro formulario.
+ */
 
 .subtitulo {
     width: 100%;

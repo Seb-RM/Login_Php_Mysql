@@ -7,6 +7,9 @@
     <title>Inicio</title>
 </head>
 <body>
+<!--
+    Pagina de bienvenida de prueba.
+-->
     <h1>Bienvenido a la Página</h1>
 </body>
 </html>

@@ -8,7 +8,25 @@
     </head>
     <body>
 <!--
-    Contenedor_Principal
+    Contenedor Clase Principal: El contenedor principal se utiliza como base 
+    para colocar dentro de el todo el contenido de la pagina web.
+
+    Contenedor formulario: Este contenedor sirve como base para el formulario
+    identificado con color negro y es la base de todo el formulario.
+
+    Form: Formulario donde ingresaran los datos los usuarios para loguearse y asi 
+    poder ingresar a la qie vendría siendo la pagina de inicio.
+
+    - action: Nos ayuda a redireccionar los datos ingresados al archivo de logueo.php
+    una vez pulsado el botón.
+    -method: Nos ayuda a mandar los datos de forma anónima.
+
+    Contenedor Subtitulo: Contiene el titulo del login.
+
+    Label: Los label están identificados con nombres específicos porque con esto 
+    aplicamos css correctamente.
+
+    input: Están especificados con nombres específicos porque con esto aplicamos css correctamente.
 -->
         <div class="principal">
             <div class="formulario">
