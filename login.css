@@ -65,10 +65,17 @@ input {
     border: none;
     border-bottom: rgb(4,75,4) 3px solid;
     overflow: none;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
 }
 button {
     margin-top: 140px;
     margin-left: 150px;
     width: 150px;
     height: 30px;
+    background: none;
+    border: none;
+    border-bottom: rgb(4,75,4) 3px solid;
+    color: white;
 }

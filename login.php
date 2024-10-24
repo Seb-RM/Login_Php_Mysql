@@ -7,9 +7,12 @@
         <title>Formulario de Login</title>
     </head>
     <body>
+<!--
+    Contenedor_Principal
+-->
         <div class="principal">
             <div class="formulario">
-                <form action="" method="post">
+                <form action="logueo.php" method="post">
                     <div class="subtitulo">
                         <h2>Login</h2>
                     </div>
